@@ -9,7 +9,7 @@
 	url = https://github.com/example42/puppet-apache.git
 [submodule "puppet/modules/postgresql"]
 	path = puppet/modules/postgresql
-	url = https://github.com/example42/puppet-postgresql.git
+	url = https://github.com/rjsmelo/puppet-postgresql.git
 [submodule "puppet/modules/mongodb"]
 	path = puppet/modules/mongodb
 	url = https://github.com/puppetlabs/puppetlabs-mongodb.git
