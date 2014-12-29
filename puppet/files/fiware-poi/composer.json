@@ -1,0 +1,6 @@
+{
+    "name": "fiware/poi-server",
+    "require": {
+        "justinrainbow/json-schema": "~1.3"
+    }
+}
