@@ -1,6 +1,6 @@
 # Vagrant box with FIWARE POI Provider
 
-This is a Vagrant Box to quickly test the FIWARE POI Provider Server.
+This is a Vagrant Box to quickly test the [FIWARE POI Provider Server](http://catalogue.fi-ware.org/enablers/poi-data-provider).
 
 The setup is based on the [Installation and Administration Guide](http://forge.fi-ware.org/plugins/mediawiki/wiki/fiware/index.php/POI_Data_Provider_-_Installation_and_Administration_Guide) available at Fiware Forge.
 
